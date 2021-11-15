@@ -33,7 +33,7 @@ section {
 
 .banner h2 span {
   font-size: 1.2em;
-  color: violet;
+  color: blue;
 }
 
 .banner h3 {
@@ -44,9 +44,9 @@ section {
 
 .btn {
   position: relative;
-  background: gold;
+  background: blue;
   display: inline-block;
-  color: violet;
+  color: whitesmoke;
   margin-top: 20px;
   padding: 10px 30px;
   text-decoration: none;
